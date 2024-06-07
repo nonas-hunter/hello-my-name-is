@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "hello-my-name-is")(type "KiCad")(uri "${USER_DIR}/hello-my-name-is/libs/hello-my-name-is.kicad_sym")(options "")(descr ""))
+)
